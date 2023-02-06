@@ -399,3 +399,4 @@ if __name__ == "__main__":
             for i in meaning:
                 print(meaning[i])
                 speak("Sir the meaning is  ", str(meaning[i]))
+                #print("Hello")
